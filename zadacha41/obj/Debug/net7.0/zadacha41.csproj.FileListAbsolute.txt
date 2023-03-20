@@ -1,0 +1,15 @@
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\bin\Debug\net7.0\zadacha41.exe
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\bin\Debug\net7.0\zadacha41.deps.json
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\bin\Debug\net7.0\zadacha41.runtimeconfig.json
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\bin\Debug\net7.0\zadacha41.dll
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\bin\Debug\net7.0\zadacha41.pdb
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.csproj.AssemblyReference.cache
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.AssemblyInfoInputs.cache
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.AssemblyInfo.cs
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.csproj.CoreCompileInputs.cache
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.dll
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\refint\zadacha41.dll
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.pdb
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\zadacha41.genruntimeconfig.cache
+C:\Users\Admin\УЧЁБА\Язык программирования С# (СиШарп)\ДОМАШНЯЯ РАБОТА\dzSEM6\zadacha41\obj\Debug\net7.0\ref\zadacha41.dll
